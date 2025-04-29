@@ -1,5 +1,5 @@
 {
-  "name": "mcp-examples",
+  "name": "EPNAI-examples",
   "version": "0.1.0",
   "description": "Example workflows and implementations using the Machine-Centric Protocol (MCP) on Solana",
   "main": "index.js",
