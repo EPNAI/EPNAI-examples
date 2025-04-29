@@ -1,7 +1,8 @@
-# MCP Examples
+# EPNAI
+![EPNAI](https://github.com/user-attachments/assets/46fd7ed7-6c8b-4dd3-8241-eac1a491b9d1)
 
 ## Overview
-Real-world examples and workflows that demonstrate the Machine-Centric Protocol (MCP) on Solana in action. This repository contains fully functional examples using major Solana services.
+Real-world examples and workflows that demonstrate the Machine-Centric Protocol (EPNAI) on Solana in action. This repository contains fully functional examples using major Solana services.
 
 ## Example Workflows
 - **Jupiter Aggregator**: Token swaps and liquidity optimization
@@ -31,7 +32,7 @@ npm test
 - `/tests` - Test suites for all examples
 
 ## Links
-- [Documentation](https://github.com/MyCryptoProtocol/mcp-docs)
-- [Core Protocol](https://github.com/MyCryptoProtocol/mcp-core)
-- [Agents](https://github.com/MyCryptoProtocol/mcp-agents)
-- [Server](https://github.com/MyCryptoProtocol/mcp-server)
+- [Documentation](https://github.com/EPNAI/EPNAI-docs)
+- [Core Protocol](https://github.com/EPNAI/EPNAI-core)
+- [Agents](https://github.com/EPNAI/EPNAI-agents)
+- [Server](https://github.com/EPNAI/EPNAI-server)
