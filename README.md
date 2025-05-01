@@ -1,8 +1,7 @@
-# EPNAI
-![EPNAI](https://github.com/user-attachments/assets/46fd7ed7-6c8b-4dd3-8241-eac1a491b9d1)
+# Liminai
 
 ## Overview
-Real-world examples and workflows that demonstrate the Machine-Centric Protocol (EPNAI) on Solana in action. This repository contains fully functional examples using major Solana services.
+Real-world examples and workflows that demonstrate the Machine-Centric Protocol (Liminai) on Solana in action. This repository contains fully functional examples using major Solana services.
 
 ## Example Workflows
 - **Jupiter Aggregator**: Token swaps and liquidity optimization
@@ -32,7 +31,7 @@ npm test
 - `/tests` - Test suites for all examples
 
 ## Links
-- [Documentation](https://github.com/EPNAI/EPNAI-docs)
-- [Core Protocol](https://github.com/EPNAI/EPNAI-core)
-- [Agents](https://github.com/EPNAI/EPNAI-agents)
-- [Server](https://github.com/EPNAI/EPNAI-server)
+- [Documentation](https://github.com/lim-in-ai/Liminai-docs)
+- [Core Protocol](https://github.com/lim-in-ai/Liminai-core)
+- [Agents](https://github.com/lim-in-ai/Liminai-agents)
+- [Server](https://github.com/lim-in-ai/Liminai-server)
